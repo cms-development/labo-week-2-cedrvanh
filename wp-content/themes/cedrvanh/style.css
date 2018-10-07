@@ -1,0 +1,38 @@
+/*
+Theme Name: cedrvanh
+Author: Cedric Vanhaegenberg
+Description: cedrvanh theme
+Version: 1.0.0
+Text Domain: cedrvanh
+*/
+
+html,
+body {
+    background-color: #FFFCF9;
+}
+
+body > .container {
+    background-color: white;
+    padding-bottom: 80px;
+}
+
+/*
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+*/
+
+.card-img-top {
+    height: 250px;
+}
+
+.card {
+    display:inline-block;
+}
+
+.bg-pink {
+    background-color: #FFA48C;
+}

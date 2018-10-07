@@ -1,0 +1,81 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2018-10-02 1:51 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.48
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.2 | SAPI: cli-server
+SERVER:		PHP 7.2.2 Development Server 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: mysqldump: [Warning] Using a password on the command line interface can be insecure.
+ 
+TABLES: total:13 | filtered:0 | create:13 
+SQL CREATED: 20181002_cedricvanhaegenberg_be9998c1710fe05d4973_20181002135117_database.sql 
+SQL FILE SIZE: 452.13KB (462985) 
+SQL FILE TIME: 2018-10-02 13:51:25 
+SQL RUNTIME: 0.15 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/cedricvanhaegenberg/Code/1819-cmsdev/wordpress 
+ARCHIVE FILE: 20181002_cedricvanhaegenberg_be9998c1710fe05d4973_20181002135117_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	47.14MB 
+STATS:	Dirs 493 | Files 3,660 
+SQL ADDED: 20181002_cedricvanhaegenberg_be9998c1710fe05d4973_20181002135117_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4153
+    [filename] => /Users/cedricvanhaegenberg/Code/1819-cmsdev/wordpress/wp-snapshots/tmp/20181002_cedricvanhaegenberg_be9998c1710fe05d4973_20181002135117_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.39MB 
+ARCHIVE RUNTIME: 4.16 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Users/cedricvanhaegenberg/Code/1819-cmsdev/wordpress/wp-snapshots/tmp/20181002_cedricvanhaegenberg_be9998c1710fe05d4973_20181002135117_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 452.13KB 
+Installer File: 474.18KB 
+Archive File: 26.39MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 4.61 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20181002_cedricvanhaegenberg 2018-10-02 1:51 pm
+ 
