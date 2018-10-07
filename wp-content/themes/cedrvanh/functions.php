@@ -248,7 +248,7 @@ function cedrvanh_recipe_meta_boxes($post) {
         class="custom_meta_box" placeholder="Subtitle" value="' . $subtitle . '" size="255" style="width: 100%;">';
 
   echo '<label for="recipe_ingredients">' . __('Ingrediënten', 'cedrvanh') . '</label>';
-  echo '<textarea name="recipe_ingredients" id="recipe_ingredients" style="width: 100%;"></textarea>';
+  echo '<textarea name="recipe_ingredients" id="recipe_ingredients" style="width: 100%;">' . $ingredients . '</textarea>';
 }
 
 add_action('save_post', 'cedrvanh_save_recipe_data');
